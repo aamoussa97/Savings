@@ -5,8 +5,8 @@
 
 ## English - EN
 
-[PrivacyPolicy-EN](aamoussa97/Savings/blob/master/PrivacyPolicy/PrivacyPolicy-EN.md)
+[PrivacyPolicy-EN](PrivacyPolicy/PrivacyPolicy-EN.md)
 
 ## Danish - DA
 
-[PrivacyPolicy-DA](aamoussa97/Savings/blob/master/PrivacyPolicy/PrivacyPolicy-EN.md)
+[PrivacyPolicy-DA](PrivacyPolicy/PrivacyPolicy-EN.md)
