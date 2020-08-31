@@ -9,4 +9,4 @@
 
 ## Danish - DA
 
-[PrivacyPolicy-DA](PrivacyPolicy/PrivacyPolicy-EN.md)
+[PrivacyPolicy-DA](PrivacyPolicy/PrivacyPolicy-DA.md)
