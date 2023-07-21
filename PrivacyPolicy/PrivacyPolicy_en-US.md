@@ -1,4 +1,4 @@
-# Privacy Policy - EN
+# Privacy Policy
 
 **Last updated**
 31/8/2020
@@ -7,22 +7,19 @@
 
 Savings does not collect any information. No data is send from or to your device, ergo no network calls are performed. Savings does not serve ads and does not make use of any external analytics services either, therefore all functionality is performed locally on your device. If this were to change in the future, updates to the privacy policy will be issued and users notified.
 
-<!--No data is send from or to identifiable information about its users in any fashion.
--->
-
 ## First-Party sites and services
 
 ### AppStore
 
-Savings supports premium features in the form of in-app purchases, where as the payment part is provided by Apple. [Apple's Privacy Policy is here.](https://www.apple.com/legal/privacy/en-ww/)
+Savings supports premium features in the form of in-app purchases, where as the payment part is provided by Apple.
+[Apple's Privacy Policy is here.](https://www.apple.com/legal/privacy/en-ww/)
 
 ### iCloud
 
-Savings support synchronization of saving goals via Apple's iCloud service.[^1]
-[^1]: Requires Savings PRO.
+Savings support synchronization of saving goals via Apple's iCloud service.
 
-The data stored in iCloud is secured by encryption both in transnit and while at rest (storage).[^2]
-[^2]: [iCloud security overview - Apple](https://support.apple.com/en-us/HT202303)
+The data stored in iCloud is secured by encryption both in transnit and while at rest (storage)
+[iCloud security overview - Apple](https://support.apple.com/en-us/HT202303)
 
 ## Third-Party sites and services
 
@@ -34,4 +31,5 @@ Updates to the privacy policy may occur from time to time, and will be posted he
 
 ## Contact Us
 
-Any questions or inquiries regarding the privacy policy, are more than welcome at [savingsapp@alimoussa.com](mailto:savingsapp@alimoussa.com).
+Any questions or inquiries regarding the privacy policy, are more than welcome at 
+[savingsapp@alimoussa.com](mailto:savingsapp@alimoussa.com).
